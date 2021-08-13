@@ -7,7 +7,7 @@ This project
 |:--:|:--:|:--:|:--:|
 | Abraham Liu | The King's Academy | Computer Science | Incoming Junior
 
-#Demo Night Video 
+# Demo Night Video 
   
 # Final Milestone
 
